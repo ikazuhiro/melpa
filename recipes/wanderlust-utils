@@ -1,0 +1,6 @@
+(wanderlust-utils
+ :fetcher github
+ :repo "ikazuhiro/wanderlust"
+ :branch "actions"
+ :files ("utils/*.el" "wanderlust-utils-pkg.el")
+ :init-file "wl.el")
