@@ -1,0 +1,23 @@
+Package: mu-cite
+Fetcher: github
+Source:  https://github.com/cvs-m17n-org/MU-CITE
+
+Cloning https://github.com/cvs-m17n-org/MU-CITE to /home/runner/work/melpa/melpa/working/mu-cite/
+Checking out 62d42d2ef18a89bb109582f3b9466d46f9e7d4a0
+Copying files (->) and directories (=>)
+  from /home/runner/work/melpa/melpa/working/mu-cite/
+  to /tmp/mu-citex5NPt6/mu-cite-20240805.101
+    latex-math-symbol.el -> latex-math-symbol.el
+    mu-cite-pkg.el -> mu-cite-pkg.el
+    mu-cite.el -> mu-cite.el
+    mu-register.el -> mu-register.el
+Created mu-cite-20240805.101.tar containing:
+  mu-cite-20240805.101/
+  mu-cite-20240805.101/latex-math-symbol.el
+  mu-cite-20240805.101/mu-cite-pkg.el
+  mu-cite-20240805.101/mu-cite.el
+  mu-cite-20240805.101/mu-register.el
+ ✓ Success:
+  2025-05-05T15:41:58+0000  mu-cite-20240805.101.entry
+  2025-05-05T15:41:58+0000  mu-cite-20240805.101.tar
+Built mu-cite in 0.742s, finished at 2025-05-05T15:41:59+0000

@@ -1,0 +1,15 @@
+(mu-cite .
+	 [(20240805 101)
+	  ((flim
+	    (1 14 9)))
+	  "A library to provide MIME features" tar
+	  ((:url . "https://github.com/cvs-m17n-org/MU-CITE")
+	   (:commit . "62d42d2ef18a89bb109582f3b9466d46f9e7d4a0")
+	   (:revdesc . "62d42d2ef18a")
+	   (:keywords "mail" "news" "citation")
+	   (:authors
+	    ("MORIOKA Tomohiko" . "tomo@m17n.org")
+	    ("Shuhei KOBAYASHI" . "shuhei@aqua.ocn.ne.jp"))
+	   (:maintainers
+	    ("Katsumi Yamaoka" . "yamaoka@jpl.org"))
+	   (:maintainer "Katsumi Yamaoka" . "yamaoka@jpl.org"))])

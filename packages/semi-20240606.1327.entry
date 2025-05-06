@@ -1,0 +1,18 @@
+(semi .
+      [(20240606 1327)
+       ((emacs
+	 (24 5))
+	(apel
+	 (10 8))
+	(flim
+	 (1 14 9)))
+       "A library to provide MIME features" tar
+       ((:url . "https://github.com/wanderlust/semi")
+	(:commit . "85a52b899ac89be504d9e38d8d406bba98f4b0b3")
+	(:revdesc . "85a52b899ac8")
+	(:keywords "definition" "mime" "multimedia" "mail" "news")
+	(:authors
+	 ("MORIOKA Tomohiko" . "tomo@m17n.org"))
+	(:maintainers
+	 ("MORIOKA Tomohiko" . "tomo@m17n.org"))
+	(:maintainer "MORIOKA Tomohiko" . "tomo@m17n.org"))])

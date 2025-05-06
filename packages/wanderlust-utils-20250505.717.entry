@@ -1,0 +1,12 @@
+(wanderlust-utils .
+		  [(20250505 717)
+		   ((emacs
+		     (24 5))
+		    (wanderlust
+		     (2 15 9)))
+		   "Utilities for Wanderlust" tar
+		   ((:commit . "fb85d901389d6a99d2d2a26ed2b9af6c2fc8e923")
+		    (:revdesc . "fb85d901389d")
+		    (:maintainers
+		     ("Kazuhiro Ito" . "kzhr@d1.dion.ne.jp"))
+		    (:maintainer "Kazuhiro Ito" . "kzhr@d1.dion.ne.jp"))])
